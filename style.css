@@ -1,0 +1,19 @@
+.contenedor{
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+   
+
+}
+
+.imagen{
+    width: 140px;
+    height: 140px;
+   margin-bottom: 20px;
+}
+
+.imagen2{
+    width: 140px;
+    height: 140px;
+    margin-bottom: 20px;
+}
